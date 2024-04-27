@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OniCHanPCBLib")(type "KiCad")(uri "${KIPRJMOD}/OniCHanPCBLib.pretty")(options "")(descr ""))
+)
